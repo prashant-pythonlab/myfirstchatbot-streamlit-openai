@@ -31,7 +31,7 @@ To get started with the Python chatbot project, follow these simple steps:
 1. Clone the repository: `git clone https://github.com/prashant-pythonlab/myfirstchatbot-streamlit-openai`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Obtain an OpenAI API key: [https://platform.openai.com/account/api-keys]
-4. Configure the API key in secrets.toml: [sk-igcvJlKRTtRjOmyJQtwNT3BlbkFJcdqYkv31f4UxnV0LBhghk]
+4. Configure the API key in secrets.toml: API key will loo something like this: [sk-igcvJlKRTtRjOmyJQtwNT3BlbkFJcdqYkv31f4UxnV0LBhghk]
 5. Launch the chatbot application: `streamlit run MyFirstChatbot.py`
 
 
